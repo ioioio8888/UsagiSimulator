@@ -1,9 +1,9 @@
 const cacheName = "ioioio8888-UsagiSimulator-1.0";
 const contentToCache = [
     "Build/Build.loader.js",
-    "Build/Build.framework.js.unityweb",
-    "Build/Build.data.unityweb",
-    "Build/Build.wasm.unityweb",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];
